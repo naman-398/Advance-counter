@@ -130,3 +130,11 @@
     line-height: normal;
     margin-bottom: 0;
 }
+@media (max-width:576px) {
+    .add {
+        padding: 13px 20px;
+    }
+    .save{
+        width: 115px;
+    }
+}
